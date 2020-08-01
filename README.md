@@ -18,8 +18,7 @@
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/chiraghmathur/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    
   </a>&nbsp;&nbsp;
 </p>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Chirag-Mathur&hide=["stars","issues"]&show_icons=true )](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag-Mathur&hide_border=true&hide=javascript,html">
