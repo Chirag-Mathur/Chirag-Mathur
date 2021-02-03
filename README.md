@@ -21,4 +21,4 @@
     
   </a>&nbsp;&nbsp;
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirag-Mathur&hide_border=true&hide=javascript,html">
+
